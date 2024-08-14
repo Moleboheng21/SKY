@@ -8,5 +8,9 @@ import { Component } from '@angular/core';
   styleUrl: './home.component.scss'
 })
 export class HomeComponent {
+  
+  pro = [
+    'about', 'projects','resume','contact'
+  ]
 
 }
