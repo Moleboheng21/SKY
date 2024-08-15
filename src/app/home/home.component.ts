@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
 export class HomeComponent {
   
   pro = [
-    'about', 'projects','resume','contact'
+    'About', 'Projects','Resume'
   ]
 
 }
