@@ -7,7 +7,7 @@
       padding: 100px 0;
       color: #9a8b8b;
       text-align: center;
-      height: 920px;
+    //   height: 920px;
    
      
     }
@@ -53,7 +53,7 @@
     
     .projects h2 {
       margin-bottom: 40px;
-      height: 920px;
+    //   height: 920px;
     }
     
     .card {
@@ -69,7 +69,7 @@
     }
     .projects-section {
       
-      height: 920px;
+    //   height: 920px;
       padding: 80px 0;
       background-color: #6d6e6f;
       margin-top: 200px;
@@ -182,7 +182,7 @@
       flex: 1;
       margin-right: 35rem;
       align-items: center;
-      width: -150px;
+    //   width: -150px;
     }
     
     .hero h1 {
@@ -419,13 +419,16 @@
     margin-left: -2px;
     margin-top: 10px;
     margin-bottom: 10px;
+    height: 920px;
   
   }
   
 .b{
 margin-left: 60px;
 margin-right: 60px;
-margin-top: 60px;
+margin-top: 160px;
+width: -50px;
+
 }
 
   .section-padding {
@@ -507,4 +510,7 @@ margin-top: 60px;
   }
  .btn{
     margin-left: 650px;
+ }
+ .btn2{
+    margin-left: 150px;
  }
